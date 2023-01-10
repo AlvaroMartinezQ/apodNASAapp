@@ -23,7 +23,7 @@ import okhttp3.Response;
 
 public class APOD extends AppCompatActivity {
 
-    // APOD = Astrology Pic Of the Day
+    // APOD = Astronomy Pic Of the Day
 
     private ImageView nasaImage;
     private TextView loading;
